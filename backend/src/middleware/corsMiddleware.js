@@ -1,7 +1,7 @@
 const cors = require('cors');
 
 /**
- * Open CORS Middleware Configuration for Local Demo
+ * Open CORS Middleware Configuration for Deployment
  */
 const corsOptions = {
   origin: '*',
